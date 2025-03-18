@@ -23,18 +23,10 @@ Este é um simples aplicativo web para realizar sorteios de **Amigo Secreto**. O
 3. Digite os nomes no campo de entrada e clique em **Adicionar**.
 4. Após inserir todos os nomes, clique em **Sortear Amigo** para escolher um aleatoriamente.
 
-## 📷 Captura de Tela
-
-![Amigo Secreto Preview](assets/preview.png)
-
 ## 🤝 Contribuindo
 
 Sinta-se à vontade para contribuir! Faça um **fork** do projeto, crie uma **branch** e envie um **pull request** com melhorias ou correções.
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a **MIT License**. Veja o arquivo `LICENSE` para mais detalhes.
-
----
-
-Quer que eu crie e adicione ao seu projeto? 😊
+Este projeto está licenciado sob a **MIT License**.
